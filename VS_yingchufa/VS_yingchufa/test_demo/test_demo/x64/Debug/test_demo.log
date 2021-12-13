@@ -1,0 +1,6 @@
+﻿  test_demo.cpp
+e:\demo\vs\vs_yingchufa\test_demo\test_demo\test_demo.cpp(207): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+e:\demo\vs\vs_yingchufa\test_demo\test_demo\test_demo.cpp(158): warning C4101: “get_FPS”: 未引用的局部变量
+e:\demo\vs\vs_yingchufa\test_demo\test_demo\test_demo.cpp(136): warning C4101: “res”: 未引用的局部变量
+  test_demo.vcxproj -> E:\Demo\VS\VS_yingchufa\test_demo\x64\Debug\test_demo.exe
+  test_demo.vcxproj -> E:\Demo\VS\VS_yingchufa\test_demo\x64\Debug\test_demo.pdb (Full PDB)

@@ -1,0 +1,24 @@
+QMAKE_CXX.INCDIRS = \
+    D:\\software\\opencv\\build\\include \
+    D:\\software\\opencv\\build\\include\\opencv \
+    D:\\software\\opencv\\build\\include\\opencv2 \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\include" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\atlmfc\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt"
+QMAKE_CXX.LIBDIRS = \
+    D:\\software\\opencv\\build\\x64\\vc14\\lib \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\lib\\amd64" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\atlmfc\\lib\\amd64" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.10240.0\\ucrt\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\8.1\\lib\\winv6.3\\um\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\Lib\\um\\x64"
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1900
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 190024215
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
